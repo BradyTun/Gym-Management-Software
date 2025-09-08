@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Login from "./pages/Login";
-import Pos from "./pages/POS";
+import Pos from "./pages/Pos";
 import MemberList from "./pages/MemberList";
 import MemberDetails from "./pages/Member";
 import Products from "./pages/Products";
