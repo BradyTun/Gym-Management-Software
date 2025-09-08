@@ -1,6 +1,6 @@
 import { useState } from "react";
 import MemberInfo from "../components/members/MemberInfo";
-import MembershipDetails from "../components/members/MemberShipDetails";
+import MembershipDetails from "../components/members/MembershipDetails";
 import ProgressChart from "../components/members/ProgressChart";
 import ActivityLog from "../components/members/ActivityLog";
 import FabRenew from "../components/members/FabRenew";
