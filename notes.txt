@@ -1,0 +1,35 @@
+
+Package Name
+Time Slot
+Price
+Start Date & End Date
+Promotion Discounts
+
+Package Types
+- Duration based
+- Sessions based
+
+PT Packages
+- Days
+- Price
+
+Info
+- discounts based on how many months to extend
+- gift items
+
+Report
+- Revenue
+- Member Listing Sorting by Result
+
+Referals
+- Discount Coupons (%)
+
+Promotion
+- 10 Membership Purchase - 10%
+
+Member Registration
+Package Assign (Sale)
+Fill Detailed Member Info
+
+Photo Records Once a Month (Multiple)
+
